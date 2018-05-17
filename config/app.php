@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' =>  'Test3',
+    'name' =>  'Multiauth',
 
 
     /*
